@@ -1,0 +1,14 @@
+C:\mphasis-B2\Day-22\Project-1\Project-1\bin\Debug\Project-1.exe.config
+C:\mphasis-B2\Day-22\Project-1\Project-1\bin\Debug\Project-1.exe
+C:\mphasis-B2\Day-22\Project-1\Project-1\bin\Debug\Project-1.pdb
+C:\mphasis-B2\Day-22\Project-1\Project-1\obj\Debug\Project-1.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-22\Project-1\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-22\Project-1\Project-1\obj\Debug\Project-1.exe
+C:\mphasis-B2\Day-22\Project-1\Project-1\obj\Debug\Project-1.pdb
+C:\mphasis-B2\Day-22\Project-1Team&Player\Project-1\bin\Debug\Project-1.exe.config
+C:\mphasis-B2\Day-22\Project-1Team&Player\Project-1\bin\Debug\Project-1.exe
+C:\mphasis-B2\Day-22\Project-1Team&Player\Project-1\bin\Debug\Project-1.pdb
+C:\mphasis-B2\Day-22\Project-1Team&Player\Project-1\obj\Debug\Project-1.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-22\Project-1Team&Player\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-22\Project-1Team&Player\Project-1\obj\Debug\Project-1.exe
+C:\mphasis-B2\Day-22\Project-1Team&Player\Project-1\obj\Debug\Project-1.pdb
